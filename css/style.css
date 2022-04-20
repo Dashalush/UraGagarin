@@ -1,0 +1,95 @@
+.navbar{
+    display: flex;
+    margin: 0 auto;
+}
+.doc{
+    display: flex;
+    text-align: center;
+    margin-left: 200px;
+    font-size: 30px;
+}
+.doc a{
+    text-decoration: none;
+    display: flex;
+    list-style-type: none;
+    padding: 15px 20px;
+    font-weight: bold;
+    
+}
+.doc a:hover{
+    margin-top: 7px;
+    width: 200px;
+    height: 60px;
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.one{
+    background-image: url(../img/main_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 885px;
+}
+#gagarin{
+    position: relative;
+}
+.web{
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 400px;
+    text-shadow: 4px 4px 1px rgba(150, 150, 150, 1);
+}
+
+.text{
+    text-align: center;
+font-size: 60px;
+color: blue;
+text-shadow: 4px 4px 1px rgba(150, 150, 150, 1);
+}
+.elleme{
+    display: block;
+    margin: 0 auto;
+}
+.text1{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+.text2{
+    width: 625px;
+    height: 220px;
+    text-align: justify;
+    font-size: 20px;
+    color: black;
+}
+.text3{
+    text-align: center;
+    color: blue;
+    text-shadow: 4px 4px 1px rgba(150, 150, 150, 1);
+    font-size: 60px;
+}
+.text4{
+    width:760px;
+    height: 460px;
+    color: black;
+    font-size: 22px;
+    text-align: left;
+}
+.roc{
+    text-align: center;
+    color: blue;
+    text-shadow: 4px 4px 1px rgba(150, 150, 150, 1);
+    font-size: 60px;
+}
+
+.text5{
+    width:760px;
+    height: 460px;
+    font-size: 35px;
+    text-align: left;   
+}
